@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-06-11 215832](https://github.com/h9nirajpatil/Gpt3websitelandingpage/assets/156055885/7d1337c2-49b8-4420-b5b8-523345ab99fd)![Screenshot 2024-06-11 215904](https://github.com/h9nirajpatil/Gpt3websitelandingpage/assets/156055885/27ccff81-c343-4614-b319-c2c2d398e1c7)![Screenshot 2024-06-11 215950](https://github.com/h9nirajpatil/Gpt3websitelandingpage/assets/156055885/99b028fd-b15d-42a4-a596-f3ff3583f2da)![Screenshot 2024-06-11 220021](https://github.com/h9nirajpatil/Gpt3websitelandingpage/assets/156055885/cea14e6c-8210-4bf8-982e-a8cd3f252b13)
+
+![Screenshot 2024-06-11 220000](https://github.com/h9nirajpatil/Gpt3websitelandingpage/assets/156055885/442e3ab0-b6a2-4547-a5ed-8783b7445e72)![Screenshot 2024-06-11 220011](https://github.com/h9nirajpatil/Gpt3websitelandingpage/assets/156055885/9a9109d4-062b-490a-b5d4-0d124db9d8bd)
+
+
+![Screenshot 2024-06-11 215935](https://github.com/h9nirajpatil/Gpt3websitelandingpage/assets/156055885/c5db1740-c13a-40be-81e6-e7997ff8759d)
+
+![Screenshot 2024-06-11 215848](https://github.com/h9nirajpatil/Gpt3websitelandingpage/assets/156055885/bf6558d5-91ad-417f-b8df-4d78e09b42e1)![Screenshot 2024-06-11 215920](https://github.com/h9nirajpatil/Gpt3websitelandingpage/assets/156055885/1e9e4a05-4616-4195-b4c5-051ccae8c4d5)
+
